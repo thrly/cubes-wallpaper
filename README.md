@@ -30,6 +30,6 @@ Or you can tweak and generate your own version with the p5.js web editor: <https
 
 ## Want more?
 
-I also made: 🧊 [cubes-wallpaper](https://github.com/thrly/cubes-wallpaper) – 3D stacking cube wallpapers with Catppuccin colourscheme
+I also made 🟣 [dots-wallpaper](https://github.com/thrly/dots-wallpaper) – minimalist dot grids, again in the Catppuccin colourscheme
 
 made with 🩵 and cats
